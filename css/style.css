@@ -1,7 +1,30 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #D47460;
+  color: #D4CB60;
+  font-size: 16px;
 }
+
+figcaption {
+  font-size: .8em;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  line-height: 1.25;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover { color:#0070BC; }
 
 nav {
   background-color: rgba(0,0,0,.5);
